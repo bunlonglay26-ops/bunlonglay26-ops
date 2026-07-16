@@ -1,27 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm bunlonglay26-ops</h1>
+<h3 align="center">Welcome to my GitHub profile</h3>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&color=000000&background=FFFFFF&lines=DevOps+Engineer;Automating+Deployments;Learning+and+Sharing" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="floating gif" style="float:right; width:150px; margin:0 0 10px 10px;"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Always+Learning+New+Things;Building+Practical+Projects" alt="Typing SVG" />
 </p>
 
-<!-- GitHub Readme Stats -->
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bunlonglay26-ops&show_icons=true&theme=tokyonight" alt="bunlonglay26-ops's GitHub stats" />
+## 🙋‍♂️ Introduction
+
+I'm the maintainer of this account, focused on DevOps automation, infrastructure as code, and building reliable deployment pipelines. I enjoy turning operational challenges into automated, repeatable workflows and sharing my work here on GitHub.
+
+- 🌱 Currently learning and exploring new tools & frameworks
+- 💻 Interested in software development, automation, and open-source
+- 🎯 Goal: Build impactful projects and grow as an engineer
+
+---
+
+## 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Activity & Insights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bunlonglay26-ops&label=Profile%20Views&color=7E3ACE&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bunlonglay26-ops&show_icons=true&theme=tokyonight" alt="bunlonglay26-ops's GitHub stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunlonglay26-ops&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-<br clear="both"/>
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bunlonglay26-ops&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
-### About me
+## 🧩 LeetCode Stats
 
-- 🔭 I’m currently working on DevOps automation and infrastructure as code.
-- 🌱 I’m currently learning advanced CI/CD patterns and cloud-native tooling.
-- 👯 I’m open to collaborate on ops and automation projects.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bunlonglay26-ops?ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
-If you'd like a different GIF, themes for the stats cards, or different typing lines, tell me what you'd like and I can update it.
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/bunlonglay26-ops">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
